@@ -1,6 +1,12 @@
-.maBiteRose {
+.maDivBleue {
     height: 200px;
     width: 200px;
     background-color: rgb(8, 102, 209);
 
+}
+
+.divRouge {
+    height: 200px;
+    width: 200px;
+    background-color: rgb(209, 8, 8);
 }
